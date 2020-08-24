@@ -323,7 +323,7 @@ select {
 	-ms-appearance: none;
 	-o-appearance: none;
 	appearance: none;
-	background-image: url('http://nirav.jaysamudri.in/trohs/down-arrow.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/down-arrow.png');
 	background-position: 96% 50%;
 	background-repeat: no-repeat;
 	outline: none;
@@ -820,7 +820,7 @@ screen and (-ms-high-contrast: none) {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('http://nirav.jaysamudri.in/trohs/header-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/header-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1069,7 +1069,7 @@ screen and (-ms-high-contrast: none) {
 .basic-1 {
 	padding-top: 6.375rem;
 	padding-bottom: 6.875rem;
-	background: url('http://nirav.jaysamudri.in/trohs/video-background.jpg') center center no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/header-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1343,7 +1343,7 @@ screen and (-ms-high-contrast: none) {
 .basic-4 {
 	padding-top: 6.5rem;
 	padding-bottom: 6.75rem;
-	background: url('http://nirav.jaysamudri.in/trohs/download-background.jpg') center center no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/header-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1404,7 +1404,7 @@ screen and (-ms-high-contrast: none) {
 .form {
 	padding-top: 6.25rem;
 	padding-bottom: 5.625rem;
-	background: url('http://nirav.jaysamudri.in/trohs/contact-background.jpg') center bottom no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/contact-background.jpg') center bottom no-repeat;
 	background-size: cover;
 }
 
@@ -1511,7 +1511,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #00c9db url("http://nirav.jaysamudri.in/trohs/up-arrow.png") no-repeat center 47%;
+	background: #00c9db url("https://cdn.jsdelivr.net/gh/Nirav1221/Hosted/img/css/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
